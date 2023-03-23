@@ -1,0 +1,10 @@
+2023-03-07 19:18:37 [[31merror[39m]: duplicate key value violates unique constraint "UQ_1366af4c18e22dffff92a9b1514"
+2023-03-07 19:34:18 [[31merror[39m]: duplicate key value violates unique constraint "UQ_1366af4c18e22dffff92a9b1514"
+2023-03-07 19:37:54 [[31merror[39m]: duplicate key value violates unique constraint "UQ_1366af4c18e22dffff92a9b1514"
+2023-03-07 20:00:11 [[31merror[39m]: null value in column "address" of relation "citizen" violates not-null constraint
+2023-03-07 20:13:13 [[31merror[39m]: Citizen already exists
+2023-03-07 20:14:54 [[31merror[39m]: Citizen already exists
+2023-03-07 20:16:02 [[31merror[39m]: Citizen already exists
+2023-03-07 20:18:15 [[31merror[39m]: undefined
+2023-03-07 20:18:31 [[31merror[39m]: undefined
+2023-03-07 21:09:53 [[31merror[39m]: Citizen not found

@@ -1,0 +1,46 @@
+2023-03-07 19:12:44 [[32minfo[39m]: Citizen created successfully
+2023-03-07 19:18:37 [[31merror[39m]: duplicate key value violates unique constraint "UQ_1366af4c18e22dffff92a9b1514"
+2023-03-07 19:34:18 [[31merror[39m]: duplicate key value violates unique constraint "UQ_1366af4c18e22dffff92a9b1514"
+2023-03-07 19:37:54 [[31merror[39m]: duplicate key value violates unique constraint "UQ_1366af4c18e22dffff92a9b1514"
+2023-03-07 20:00:11 [[31merror[39m]: null value in column "address" of relation "citizen" violates not-null constraint
+2023-03-07 20:13:13 [[31merror[39m]: Citizen already exists
+2023-03-07 20:14:54 [[31merror[39m]: Citizen already exists
+2023-03-07 20:16:02 [[31merror[39m]: Citizen already exists
+2023-03-07 20:18:15 [[31merror[39m]: undefined
+2023-03-07 20:18:31 [[31merror[39m]: undefined
+2023-03-07 20:43:19 [[32minfo[39m]: Citizen found successfully
+2023-03-07 20:43:27 [[32minfo[39m]: Citizen found successfully
+2023-03-07 20:44:31 [[32minfo[39m]: Citizen not found
+2023-03-07 21:09:53 [[32minfo[39m]: Citizen not found
+2023-03-07 21:09:53 [[31merror[39m]: Citizen not found
+2023-03-07 21:10:25 [[32minfo[39m]: Citizen not found
+2023-03-07 21:11:19 [[32minfo[39m]: Citizen not found
+2023-03-07 21:12:07 [[32minfo[39m]: Citizen not found
+2023-03-07 21:16:39 [[32minfo[39m]: Citizen not found
+2023-03-08 01:10:18 [[32minfo[39m]: Citizen not found
+2023-03-08 17:26:00 [[32minfo[39m]: Citizen not found
+2023-03-08 18:16:00 [[32minfo[39m]: Citizen created successfully
+2023-03-08 18:26:41 [[32minfo[39m]: Citizen found successfully
+2023-03-08 18:26:46 [[32minfo[39m]: Citizen found successfully
+2023-03-08 18:26:48 [[32minfo[39m]: Citizen found successfully
+2023-03-08 18:26:49 [[32minfo[39m]: Citizen found successfully
+2023-03-08 18:26:50 [[32minfo[39m]: Citizen found successfully
+2023-03-08 18:26:51 [[32minfo[39m]: Citizen found successfully
+2023-03-08 18:29:12 [[32minfo[39m]: Citizen found successfully
+2023-03-08 18:29:53 [[32minfo[39m]: Citizen found successfully
+2023-03-08 18:32:02 [[32minfo[39m]: Citizen found successfully
+2023-03-08 18:32:37 [[32minfo[39m]: Citizen created successfully
+2023-03-08 18:36:27 [[32minfo[39m]: Citizen created successfully
+2023-03-08 18:37:26 [[32minfo[39m]: Citizen created successfully
+2023-03-08 18:38:02 [[32minfo[39m]: Citizen created successfully
+2023-03-08 18:40:22 [[32minfo[39m]: Citizen created successfully
+2023-03-08 18:42:45 [[32minfo[39m]: Citizen created successfully
+2023-03-08 19:01:35 [[32minfo[39m]: Citizen created successfully
+2023-03-09 13:06:42 [[32minfo[39m]: Citizen created successfully
+2023-03-09 13:18:13 [[32minfo[39m]: Citizen created successfully
+2023-03-09 13:19:14 [[32minfo[39m]: Citizen created successfully
+2023-03-09 13:24:14 [[32minfo[39m]: Citizen created successfully
+2023-03-11 12:49:19 [[32minfo[39m]: Citizen created successfully
+2023-03-11 16:26:41 [[32minfo[39m]: Citizen created successfully
+2023-03-11 16:45:01 [[32minfo[39m]: Citizen created successfully
+2023-03-11 16:46:21 [[32minfo[39m]: Citizen created successfully
